@@ -10,7 +10,7 @@
 - 💼 &nbsp; Full stack web developer! 🌹 That means I <i>really</i> love developing for both back-end & front-end. 💜
 - 🌱 &nbsp; Enthusiast in self-improvement apps and non-profit organizations. I love any work that has an impact in helping people.
 - 🎠 &nbsp; Watching Disney and all things cat 😺.
-- ☕ &nbsp; Keurig makes a perfect cup of coffee. The ultimate picker upper. 
+- ☕ &nbsp; My Keurig machine makes a perfect cup of coffee. The ultimate picker upper. 
 
 <h3>🛠 Tech Stack</h3>
 
