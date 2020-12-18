@@ -6,7 +6,7 @@
 - 🔭 &nbsp; I’m currently working on my final project for a super awesome and extensive full stack bootcamp, Lambda School.
 - 🤔 &nbsp; Solving problems and finding new libraries to play with.
 - 🎓 &nbsp; Studing Web Development  & Computer Science and practice data structures and algorithms code challenges.
-- 💼 &nbsp; Full stack web developer! 🌹 That means I really love developing for both back-end & front-end. 💜
+- 💼 &nbsp; Full stack web developer! 🌹 That means I <i>really</i> love developing for both back-end & front-end. 💜
 - 🌱 &nbsp; Enthusiast in self-improvement apps and non-profit organizations. I love any work that has an impact in helping people.
 - 🎠 &nbsp; Watching Disney and all things cat 😺.
 - ☕ &nbsp; I belive, a perfect cup of coffee can be the ultimate solution for any stress. 
