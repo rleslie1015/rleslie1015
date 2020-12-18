@@ -16,7 +16,7 @@
 - 💻 &nbsp; Postgres | Expres | React | Node  
 - 🌐 &nbsp; HTML | CSS | JavaScript | Bootstrap 
 - 🔧 &nbsp; Visual Studio code  | Git
-- 🖥 &nbsp; Whimsical | Db Designer.net
+- 🔹 &nbsp; Whimsical | Db Designer.net
 
 <br>
 
