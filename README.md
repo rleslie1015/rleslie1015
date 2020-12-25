@@ -15,7 +15,7 @@
 
 <h3>🛠 Tech Stack</h3>
 
-- 💻 &nbsp; Postgres | Expres | React | Node  
+- 💻 &nbsp; Postgres | Express | React | Node  
 - 🌐 &nbsp; HTML | CSS | JavaScript | Bootstrap 
 - 🔧 &nbsp; Visual Studio code  | Git
 - 🔹 &nbsp; Whimsical | Db Designer.net
