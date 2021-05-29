@@ -3,8 +3,9 @@
 
 <h3> 👨🏻‍💻 About Me </h3>
 
-- 🔭 &nbsp; Recently finished my final project for a super awesome and extensive full-stack Bootcamp, Lambda School.
-- 🤔 &nbsp; Solving problems, finding new libraries to play with, actively interviewing, and mentoring other web students.
+- 🔭 &nbsp; It really began with an awesome and extensive full-stack Bootcamp, Lambda School.
+- 👩‍🎓 &nbsp; Recently graduated an online immersive Software Engineering program, Hackreactor.
+- 🤔 &nbsp; Solving problems, finding new libraries to play with and mentoring other web students.
 - 🎓 &nbsp; Studying Web Development & Computer Science and practicing data structures and algorithms with weekly code challenges.
 - 🤓 &nbsp; 🔥 UPER 🔥 First <b>Understand</b> then <b>Plan</b> then <b>Execute</b> and finally <b>Reflect</b>. 💯✔️
 - 💼 &nbsp; Full-stack web developer! 🌹 That means I <i>really</i> love developing for both back-end & front-end. 💜
