@@ -3,7 +3,7 @@
 
 <h3> 👨🏻‍💻 About Me </h3>
 
-- 🔭 &nbsp; It really began with an awesome and extensive full-stack Bootcamp, Lambda School.
+- 🔭 &nbsp; It began with an awesome and extensive full-stack Bootcamp, Lambda School.
 - 👩‍🎓 &nbsp; Recently graduated an online immersive Software Engineering program, Hackreactor.
 - 🤔 &nbsp; Solving problems, finding new libraries to play with and mentoring other web students.
 - 🎓 &nbsp; Studying Web Development & Computer Science and practicing data structures and algorithms with weekly code challenges.
